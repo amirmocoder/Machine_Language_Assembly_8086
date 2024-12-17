@@ -1,8 +1,8 @@
 org 100h 
 .data
 
-array  db 9,6,5,4,3,2,1  
-length  dw 7
+array  db 1,4,2,3 
+length  dw 4
 
 .code   
 
